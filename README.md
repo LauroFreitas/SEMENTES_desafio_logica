@@ -1,1 +1,2 @@
-# Desafio Lógica
+# Desafio de Lógica
+Este repositório contempla os desafios de lógica implementados em Java solicitados. Todos os arquivos necessários para executar os desafios estão incluídos. Após clonar o repositório, para configurar corretamente o projeto no IntelliJ, clique com o botão direito sobre o diretório do projeto e selecione "Mark Directory as" -> "Source Root". Isso garantirá que o projeto esteja configurado corretamente e pronto para ser executado sem problemas.

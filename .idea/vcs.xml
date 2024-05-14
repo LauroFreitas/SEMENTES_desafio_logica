@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculadora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DivisaoDeValores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EncerrarPrograma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExcluiNome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MercadoCompraDesconto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SomaDeValores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tabuada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VendaImovel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VetoresImpares" vcs="Git" />
+  </component>
+</project>
